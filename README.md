@@ -1,7 +1,7 @@
-##About Me
+## About Me
 
 I am a Software Engineering student (1st semester), passionate about learning new technologies and improving my coding skills. I enjoy exploring different areas of computer science and working on small projects to strengthen my concepts.
-##nterests
+## nterests
 
 Learning the basics of programming (C, Python, etc.)
 
